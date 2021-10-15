@@ -1,6 +1,7 @@
 # dsc_shop
 
 A Flutter Shopping App
+DSC Shop is an app for displaying some products and info about including ability to add item into favourites and chart and remove it back, chage app mode, app language and update user profile, this app is made by adham khaled 8/2021
 
 ## Getting Started
 
